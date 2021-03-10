@@ -1,2 +1,2 @@
-# Tao6666
+H310/B360 EFI
 OC6.8 Bigsur
